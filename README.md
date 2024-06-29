@@ -21,6 +21,3 @@
 <a href="https://stackoverflow.com/users/14440192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14440192" height="30" width="40" /></a>
 <a href="https://instagram.com/ameya.uppina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ameya.uppina" height="30" width="40" /></a>
 </p>
-
-Reach out to me at ameyauppina2003@gmail.com.
-
