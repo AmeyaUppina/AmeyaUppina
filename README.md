@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameya Uppina</h1>
-<h3 align="center">Final year Computer Science undergraduate student at Vellore Institute of Technology. I love technology and coding. <3</h3>
+<h3 align="center">Bachelor of Technology in Computer Science Engineering at Vellore Institute of Technology, Class of 2025<3</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
